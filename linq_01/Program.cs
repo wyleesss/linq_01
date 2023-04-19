@@ -19,7 +19,7 @@ namespace Requests
 
     class Program
     {
-        static void Main(string[] арґументи)
+        static void Main()
         {
             Console.OutputEncoding = Encoding.UTF8;
 
